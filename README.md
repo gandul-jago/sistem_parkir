@@ -102,15 +102,6 @@ Status yang ditampilkan:
 
 ![Sketsa Sistem](sketsa.jpeg)
 
----
-
-## Sketsa Rangkaian
-
-Sketsa awal rangkaian tersedia pada file:
-
-```text
-sketsa.jpeg
-```
 
 ---
 
