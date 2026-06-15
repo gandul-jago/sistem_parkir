@@ -105,6 +105,13 @@ Status yang ditampilkan:
 
 ---
 
+## Wiring project
+
+![Wiring sistem](wiring_parkir.png)
+
+---
+
+
 ## Catatan Implementasi
 
 Sensor IR Beam yang digunakan pada implementasi nyata dapat memiliki logika aktif LOW atau aktif HIGH tergantung konfigurasi relay (NO/NC).
